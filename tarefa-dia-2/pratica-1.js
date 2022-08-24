@@ -1,12 +1,17 @@
-var nome 
+var nome
 var email 
-var profissao 
+var profissao
 var idade 
-var lugar 
+var lugar
 
-nome = joao_victor 
-email = victor-inhance@hotmail.com
-profissao = assistente administrativo
-idade = 21
-lugar = Inglaterra
+nome = "Joao Victor"
+email = "victor-inhance@hotmail.com"
+profissao = "Assistente Administrativo"
+idade = "21"
+lugar = "Inglaterra"
 
+console.log (nome)
+console.log (email)
+console.log (profissao)
+console.log (idade)
+console.log (lugar)
